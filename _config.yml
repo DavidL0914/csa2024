@@ -3,7 +3,7 @@ description: "Class of 2025"
 owner_name: David Lee
 github_username: DavidL0914
 github_repo: "csa2024" 
-baseurl: "/student_2025"
+baseurl: "/csa2024"
 future: true
 remote_theme: jekyll/minima
 minima:
